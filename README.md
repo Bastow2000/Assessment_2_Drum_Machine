@@ -2,7 +2,8 @@
 QMUL University Assessment Audio Programming 2
 
 
-This was an assessment where we had to complete some code that was already given to us, and complete certain tasks. 
+This was an assessment where we had to complete some code that was already given to us, and complete certain tasks.
+Completing the tasks would result in a drum machine using bela C++.
 <img width="815" alt="Screenshot 2024-06-20 at 11 20 51" src="https://github.com/Bastow2000/Assessment_2_Drum_Machine/assets/77554338/48e5b1bf-526e-4d4a-83e2-8a616cb994c3">
 
 <img width="835" alt="Screenshot 2024-06-20 at 11 21 16" src="https://github.com/Bastow2000/Assessment_2_Drum_Machine/assets/77554338/2085b450-ddb6-4644-acfa-f62959cdeefd">
